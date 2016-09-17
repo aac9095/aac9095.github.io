@@ -1,7 +1,7 @@
-http://gogeta95.github.io/
+http://aac9095.github.io/
 ======================
 
-Github repo for Saurabh Singhal's Website
+Github repo for Ayush Chauhan's Website
 
 ## How to create one for your own
 1. Fork the repo
